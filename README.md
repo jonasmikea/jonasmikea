@@ -5,7 +5,7 @@ Você pode entrar em contato com qualquer canal abaixo 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonas-mikea)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/jonasmikea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmikea&layout=donut&custom_title=Linguagens_dos_meus_projetos&theme=merko)](https://github.com/jonasmikea/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmikea&layout=compact&theme=radical&custom_title=Liguagens_dos_meus_projetos)
 
 ## Tecnologias de que tenho conhecimento👇
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
